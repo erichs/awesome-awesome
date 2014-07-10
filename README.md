@@ -4,6 +4,7 @@ awesome-awesome
 A curated list of awesome curated lists! Inspired by inspiration.
 
 * [Awesome-BigData][bigdata]
+* [Awesome-Clojure][clojure]
 * [Awesome-Cobol][cobol]
 * [Awesome-D][d]
 * [Awesome-Drupal][drupal]
@@ -27,6 +28,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Wikipedia][wiki]
 
 [bigdata]: https://github.com/onurakpolat/awesome-bigdata
+[clojure]: https://github.com/razum2um/awesome-clojure
 [cobol]: https://github.com/dshimy/awesome-cobol
 [d]: https://github.com/zhaopuming/awesome-d
 [datascience]: https://github.com/MStumpp/awesome-data-science
