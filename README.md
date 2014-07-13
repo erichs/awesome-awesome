@@ -3,7 +3,7 @@ awesome-awesome
 
 A curated list of awesome curated lists! Inspired by inspiration.
 
-* [Awesome-Android](https://github.com/Jackgris/awesome-android)
+* [Awesome-Android](https://github.com/JStumpp/awesome-android) and [in Spanish](https://github.com/Jackgris/awesome-android)
 * [Awesome-Analytics](https://github.com/onurakpolat/awesome-analytics)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome-Clojure](https://github.com/razum2um/awesome-clojure)
