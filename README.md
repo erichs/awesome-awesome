@@ -3,8 +3,10 @@ awesome-awesome
 
 A curated list of awesome curated lists! Inspired by inspiration.
 
+* [Awesome-Activeadmin](https://github.com/serradura/awesome-activeadmin)
 * [Awesome-Android](https://github.com/JStumpp/awesome-android) and [in Spanish](https://github.com/Jackgris/awesome-android)
 * [Awesome-Analytics](https://github.com/onurakpolat/awesome-analytics)
+* [Awesome-Angular](https://github.com/hugoleodev/awesome-angular)
 * [Awesome-Apple](https://github.com/joeljfischer/awesome-apple)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome-Clojure](https://github.com/razum2um/awesome-clojure)
@@ -16,6 +18,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-DevEnv](https://github.com/jondot/awesome-devenv)
 * [Awesome-Drupal](https://github.com/mrsinguyen/awesome-drupal)
 * [Awesome-Elixir](https://github.com/h4cc/awesome-elixir)
+* [Awesome-Emacs](https://github.com/tacticiankerala/awesome-emacs)
 * [Awesome-Erlang](https://github.com/drobakowski/awesome-erlang)
 * [Awesome-Go](https://github.com/avelino/awesome-go)
 * [Awesome-Groovy](https://github.com/khannedy/awesome-groovy)
