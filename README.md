@@ -39,7 +39,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Ruby](https://github.com/Sdogruyol/awesome-ruby)
 * [Awesome-Scala](https://github.com/lauris/awesome-scala)
 * [Awesome-Shell](https://github.com/alebcay/awesome-shell)
-* [Awesome-Swift](https://github.com/Wolg/awesome-swift)
+* [Awesome-Swift](https://github.com/Wolg/awesome-swift) and [on ZEEF](https://awesome-swift.zeef.com/robin.eggenkamp)
 * [Awesome-Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Awesome-Web](https://github.com/vinz243/awesome-web)
