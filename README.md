@@ -13,6 +13,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Clojure](https://github.com/razum2um/awesome-clojure)
 * [Awesome-Cloud](https://github.com/JStumpp/awesome-cloud)
 * [Awesome-Cobol](https://github.com/dshimy/awesome-cobol)
+* [Awesome-ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 * [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp)
 * [Awesome-CSS](https://github.com/diegocard/awesome-css)
 * [Awesome-D](https://github.com/zhaopuming/awesome-d)
