@@ -25,6 +25,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Elixir](https://github.com/h4cc/awesome-elixir)
 * [Awesome-Emacs](https://github.com/tacticiankerala/awesome-emacs)
 * [Awesome-Erlang](https://github.com/drobakowski/awesome-erlang)
+* [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask)
 * [Awesome-Go](https://github.com/avelino/awesome-go)
 * [Awesome-Grails](https://github.com/hitenpratap/awesome-grails)
 * [Awesome-Groovy](https://github.com/khannedy/awesome-groovy)
@@ -58,6 +59,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**F, K, L, Q, U, V, X, Y, Z**
+**~~F~~, K, L, Q, U, V, X, Y, Z**
 
 Keep it awesome, everybody!
