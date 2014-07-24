@@ -40,6 +40,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-NodeJS](https://github.com/vndmtrx/awesome-nodejs)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
+* [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
 * [Awesome-Perl](https://github.com/hachiojipm/awesome-perl)
 * [Awesome-PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)
