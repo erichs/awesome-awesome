@@ -55,6 +55,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift) and [on ZEEF](https://awesome-swift.zeef.com/robin.eggenkamp)
 * [Awesome-Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks)
+* [Awesome-Unity](https://github.com/RyanNielson/awesome-unity)
 * [Awesome-Web](https://github.com/vinz243/awesome-web)
 * [Awesome-Wikipedia](https://github.com/emijrp/awesome-wikipedia)
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
@@ -62,6 +63,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**~~F~~, K, L, Q, U, V, X, Y, Z**
+**K, L, Q, V, X, Y, Z**
 
 Keep it awesome, everybody!
