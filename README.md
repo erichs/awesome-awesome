@@ -10,6 +10,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Angular](https://github.com/hugoleodev/awesome-angular)
 * [Awesome-Apple](https://github.com/joeljfischer/awesome-apple)
 * [Awesome-Arabic](https://github.com/OthmanAba/awesome-arabic)
+* [Awesome-AVR](https://github.com/fffaraz/awesome-avr)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome-Clojure](https://github.com/razum2um/awesome-clojure)
 * [Awesome-Cloud](https://github.com/JStumpp/awesome-cloud)
@@ -64,6 +65,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Awesome-Unity](https://github.com/RyanNielson/awesome-unity)
+* [Awesome-Vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [Awesome-Web](https://github.com/vinz243/awesome-web)
 * [Awesome-Wikipedia](https://github.com/emijrp/awesome-wikipedia)
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
@@ -72,6 +74,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**K, Q, V, X, Z**
+**K, Q, X, Z**
 
 Keep it awesome, everybody!
