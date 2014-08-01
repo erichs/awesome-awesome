@@ -34,9 +34,11 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [Awesome-Haskell](https://github.com/krispo/awesome-haskell)
 * [Awesome-HTML5](https://github.com/diegocard/awesome-html5)
+* [Awesome-Images](https://github.com/heyalexej/awesome-images)
 * [Awesome-IOS](https://github.com/kugland/awesome-ios)
 * [Awesome-Java](https://github.com/khannedy/awesome-java)
 * [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome-Lua](https://github.com/forhappy/awesome-lua)
 * [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-NodeJS](https://github.com/vndmtrx/awesome-nodejs)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
@@ -51,6 +53,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Ruby](https://github.com/Sdogruyol/awesome-ruby)
 * [Awesome-Rust](https://github.com/kud1ing/awesome-rust)
 * [Awesome-Scala](https://github.com/lauris/awesome-scala)
+* [Awesome-Selenium](https://github.com/christian-bromann/awesome-selenium)
 * [Awesome-Shell](https://github.com/alebcay/awesome-shell)
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift) and [on ZEEF](https://awesome-swift.zeef.com/robin.eggenkamp)
 * [Awesome-Sysadmin](https://github.com/kahun/awesome-sysadmin)
@@ -63,6 +66,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**K, L, Q, V, X, Y, Z**
+**K, Q, V, X, Y, Z**
 
 Keep it awesome, everybody!
