@@ -24,26 +24,31 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-DevEnv](https://github.com/jondot/awesome-devenv)
 * [Awesome-Drupal](https://github.com/mrsinguyen/awesome-drupal)
 * [Awesome-Elixir](https://github.com/h4cc/awesome-elixir)
-* [Awesome-Emacs](https://github.com/tacticiankerala/awesome-emacs)
+* [Awesome-Emacs](https://github.com/tacticiankerala/awesome-emacs), also [here](https://github.com/sefakilic/awesome-emacs)
+* [Awesome-Ember](https://github.com/nmec/awesome-ember)
 * [Awesome-Erlang](https://github.com/drobakowski/awesome-erlang)
 * [Awesome-Flask](https://github.com/humiaozuzu/awesome-flask)
 * [Awesome-Fortran](https://github.com/rabbiabram/awesome-fortran)
+* [Awesome-Github](https://github.com/fffaraz/awesome-github)
 * [Awesome-Go](https://github.com/avelino/awesome-go)
 * [Awesome-Grails](https://github.com/hitenpratap/awesome-grails)
 * [Awesome-Groovy](https://github.com/khannedy/awesome-groovy)
 * [Awesome-Hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [Awesome-Haskell](https://github.com/krispo/awesome-haskell)
 * [Awesome-HTML5](https://github.com/diegocard/awesome-html5)
+* [Awesome-iBeacon](https://github.com/beaconinside/awesome-ibeacon)
 * [Awesome-Images](https://github.com/heyalexej/awesome-images)
 * [Awesome-IOS](https://github.com/kugland/awesome-ios)
 * [Awesome-Java](https://github.com/khannedy/awesome-java)
 * [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome-Laravel](https://github.com/tuwannu/awesome-laravel)
 * [Awesome-Lua](https://github.com/forhappy/awesome-lua)
 * [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-NodeJS](https://github.com/vndmtrx/awesome-nodejs)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
 * [Awesome-Perl](https://github.com/hachiojipm/awesome-perl)
+* [Awesome-Persian](https://github.com/fffaraz/awesome-persian)
 * [Awesome-PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)
 * [Awesome-Puppet](https://github.com/olindata/awesome-puppet)
@@ -63,9 +68,10 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Wikipedia](https://github.com/emijrp/awesome-wikipedia)
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
 * [Awesome-Wx](https://github.com/moneymanagerex/awesome-wx)
+* [Awesome-Yii](https://github.com/iJackUA/awesome-yii)
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**K, Q, V, X, Y, Z**
+**K, Q, V, X, Z**
 
 Keep it awesome, everybody!
