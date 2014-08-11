@@ -28,6 +28,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-DB](https://github.com/numetriclabz/awesome-db)
 * [Awesome-DDD](https://github.com/wkjagt/awesome-ddd)
 * [Awesome-DevEnv](https://github.com/jondot/awesome-devenv)
+* [Awesome-DevTools](https://github.com/moimikey/awesome-devtools)
 * [Awesome-Django](https://github.com/rosarior/awesome-django)
 * [Awesome-Django-CMS](https://github.com/mishbahr/awesome-django-cms)
 * [Awesome-Drupal](https://github.com/mrsinguyen/awesome-drupal)
