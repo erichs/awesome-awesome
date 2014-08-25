@@ -34,6 +34,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 * [Awesome-Django](https://github.com/rosarior/awesome-django)
 * [Awesome-Django-CMS](https://github.com/mishbahr/awesome-django-cms)
+* [Awesome-Doctrine](https://github.com/TomasVotruba/awesome-doctrine)
 * [Awesome-Drupal](https://github.com/mrsinguyen/awesome-drupal)
 * [Awesome-Dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [Awesome-Elixir](https://github.com/h4cc/awesome-elixir)
