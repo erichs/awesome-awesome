@@ -91,6 +91,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
-**K, Q, X, Z**
+**K, Q, X**
 
 Keep it awesome, everybody!
