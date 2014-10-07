@@ -87,6 +87,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
 * [Awesome-Wx](https://github.com/moneymanagerex/awesome-wx)
 * [Awesome-Yii](https://github.com/iJackUA/awesome-yii)
+* [Aweszome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## Awesome-Alphabet Bingo
 For those playing along at home, the following Awesome- letters have yet to be claimed:
