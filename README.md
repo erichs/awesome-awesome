@@ -14,6 +14,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-AVR](https://github.com/fffaraz/awesome-avr)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome-Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+* [Awesome-C](https://github.com/kozross/awesome-c)
 * [Awesome-CakePHP](https://github.com/dereuromark/awesome-cakephp)
 * [Awesome-Clojure](https://github.com/razum2um/awesome-clojure)
 * [Awesome-Cloud](https://github.com/JStumpp/awesome-cloud)
