@@ -21,6 +21,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Cloud-Storage](https://github.com/wapmorgan/awesome-cloud-storage)
 * [Awesome-Cobol](https://github.com/dshimy/awesome-cobol)
 * [Awesome-ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
+* [Awesome-Common Lisp](https://github.com/kozross/awesome-cl)
 * [Awesome-Cordova](https://github.com/busterc/awesome-cordova)
 * [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp)
 * [Awesome-CSS](https://github.com/diegocard/awesome-css)
