@@ -77,6 +77,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Scala](https://github.com/lauris/awesome-scala)
 * [Awesome-Selenium](https://github.com/christian-bromann/awesome-selenium)
 * [Awesome-Shell](https://github.com/alebcay/awesome-shell)
+* [Awesome-Space](https://github.com/elburz/awesome-space)
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift) and [on ZEEF](https://awesome-swift.zeef.com/robin.eggenkamp)
 * [Awesome-Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome-Talks](https://github.com/JanVanRyswyck/awesome-talks)
