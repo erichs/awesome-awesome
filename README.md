@@ -73,6 +73,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Python](https://github.com/vinta/awesome-python)
 * [Awesome-R](https://github.com/qinwf/awesome-R)
 * [Awesome-Rails](https://github.com/dpaluy/awesome-rails) and [here](https://github.com/datanoob/awesome-rails)
+* [Awesome-Regex](https://github.com/aloisdg/awesome-regex)
 * [Awesome-Remote-Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [Awesome-Ruby](https://github.com/Sdogruyol/awesome-ruby)
 * [Awesome-Rust](https://github.com/kud1ing/awesome-rust)
