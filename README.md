@@ -67,6 +67,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
 * [Awesome-Perl](https://github.com/hachiojipm/awesome-perl)
 * [Awesome-Persian](https://github.com/fffaraz/awesome-persian)
+* [Awesome-Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 * [Awesome-PHP](https://github.com/ziadoz/awesome-php)
 * [Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)
 * [Awesome-Puppet](https://github.com/olindata/awesome-puppet)
