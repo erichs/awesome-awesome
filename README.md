@@ -11,6 +11,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Apple](https://github.com/joeljfischer/awesome-apple)
 * [Awesome-Arabic](https://github.com/OthmanAba/awesome-arabic)
 * [Awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+* [Awesome-AutoIt](https://j2team.github.io/awesome-AutoIt/)
 * [Awesome-AVR](https://github.com/fffaraz/awesome-avr)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome-Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
