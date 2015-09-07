@@ -23,6 +23,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Cobol](https://github.com/dshimy/awesome-cobol)
 * [Awesome-ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 * [Awesome-Common Lisp](https://github.com/kozross/awesome-cl)
+* [Awesome-Community](https://github.com/peterkokot/awesome-community)
 * [Awesome-Cordova](https://github.com/busterc/awesome-cordova)
 * [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp)
 * [Awesome-CSS](https://github.com/diegocard/awesome-css)
