@@ -58,6 +58,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-IOS](https://github.com/kugland/awesome-ios)
 * [Awesome-Java](https://github.com/khannedy/awesome-java)
 * [Awesome-Javascript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome-jQuery](https://github.com/peterkokot/awesome-jquery)
 * [Awesome-Laravel](https://github.com/tuwannu/awesome-laravel), also [here](https://github.com/chiraggude/awesome-laravel)
 * [Awesome-Lua](https://github.com/forhappy/awesome-lua) and [here](https://github.com/LewisJEllis/awesome-lua)
 * [Awesome-Luvit](https://github.com/luvit/awesome-luvit)
