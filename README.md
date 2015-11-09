@@ -94,7 +94,6 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Unity](https://github.com/RyanNielson/awesome-unity)
 * [Awesome-Vagrant](https://github.com/iJackUA/awesome-vagrant)
 * [Awesome-Volt](https://github.com/heri/awesome-volt)
-* [Awesome-Web](https://github.com/vinz243/awesome-web)
 * [Awesome-Webservice](https://github.com/wapmorgan/awesome-webservice)
 * [Awesome-Wikipedia](https://github.com/emijrp/awesome-wikipedia)
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
