@@ -43,6 +43,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Dojo](https://github.com/peterkokot/awesome-dojo)
 * [Awesome-Drupal](https://github.com/mrsinguyen/awesome-drupal)
 * [Awesome-Dotfiles](https://github.com/webpro/awesome-dotfiles)
+* [Awesome-Electron](https://github.com/sindresorhus/awesome-electron)
 * [Awesome-Elixir](https://github.com/h4cc/awesome-elixir)
 * [Awesome-Emacs](https://github.com/tacticiankerala/awesome-emacs), also [here](https://github.com/sefakilic/awesome-emacs)
 * [Awesome-Ember](https://github.com/nmec/awesome-ember)
