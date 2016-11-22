@@ -72,6 +72,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-NodeJS](https://github.com/vndmtrx/awesome-nodejs)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
+* [Awesome-Pentester](https://github.com/m1guelpf/awesome-pentester)
 * [Awesome-Perl](https://github.com/hachiojipm/awesome-perl)
 * [Awesome-Persian](https://github.com/fffaraz/awesome-persian)
 * [Awesome-Phalcon](https://github.com/sergeyklay/awesome-phalcon)
