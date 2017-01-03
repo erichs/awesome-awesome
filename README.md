@@ -25,6 +25,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Common Lisp](https://github.com/kozross/awesome-cl)
 * [Awesome-Community](https://github.com/peterkokot/awesome-community)
 * [Awesome-Cordova](https://github.com/busterc/awesome-cordova)
+* [Awesome-CouchDB](https://github.com/quangv/awesome-couchdb)
 * [Awesome-Cpp](https://github.com/fffaraz/awesome-cpp)
 * [Awesome-Cryptography](https://github.com/sobolevn/awesome-cryptography)
 * [Awesome-CSS](https://github.com/diegocard/awesome-css)
