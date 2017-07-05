@@ -35,6 +35,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Dart](https://github.com/yissachar/awesome-dart)
 * [Awesome-DB](https://github.com/numetriclabz/awesome-db)
 * [Awesome-DDD](https://github.com/wkjagt/awesome-ddd)
+* [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [Awesome-DevEnv](https://github.com/jondot/awesome-devenv)
 * [Awesome-DevTools](https://github.com/moimikey/awesome-devtools)
 * [Awesome-Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
