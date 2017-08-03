@@ -71,7 +71,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Luvit](https://github.com/luvit/awesome-luvit)
 * [Awesome-Machine-Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome-MySQL](https://github.com/shlomi-noach/awesome-mysql)
-* [Awesome-NodeJS](https://github.com/vndmtrx/awesome-nodejs)
+* [Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
 * [Awesome-Pentester](https://github.com/m1guelpf/awesome-pentester)
