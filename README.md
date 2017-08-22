@@ -61,6 +61,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [Awesome-Haskell](https://github.com/krispo/awesome-haskell)
 * [Awesome-HTML5](https://github.com/diegocard/awesome-html5)
+* [Awesome-Hyper](https://github.com/bnb/awesome-hyper)
 * [Awesome-iBeacon](https://github.com/beaconinside/awesome-ibeacon)
 * [Awesome-Images](https://github.com/heyalexej/awesome-images)
 * [Awesome-IOS](https://github.com/kugland/awesome-ios)
