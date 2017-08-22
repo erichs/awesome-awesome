@@ -85,6 +85,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Pipeline](https://github.com/pditommaso/awesome-pipeline)
 * [Awesome-Puppet](https://github.com/olindata/awesome-puppet)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
+* [Awesome-Quant](https://github.com/wilsonfreitas/awesome-quant)
 * [Awesome-R](https://github.com/qinwf/awesome-R)
 * [Awesome-Rails](https://github.com/dpaluy/awesome-rails) and [here](https://github.com/datanoob/awesome-rails)
 * [Awesome-Regex](https://github.com/aloisdg/awesome-regex)
@@ -108,11 +109,12 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Wikipedia](https://github.com/emijrp/awesome-wikipedia)
 * [Awesome-Wordpress](https://github.com/miziomon/awesome-wordpress)
 * [Awesome-Wx](https://github.com/moneymanagerex/awesome-wx)
+* [Awesome-Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Awesome-Yii](https://github.com/iJackUA/awesome-yii)
 * [Aweszome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## Awesome-Alphabet Bingo
-For those playing along at home, the following Awesome- letters have yet to be claimed:
-**K, Q, X**
+For those playing along at home, the following Awesome- letter has yet to be claimed:
+**K**
 
 Keep it awesome, everybody!
