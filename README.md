@@ -56,7 +56,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Github](https://github.com/fffaraz/awesome-github)
 * [Awesome-Go](https://github.com/avelino/awesome-go)
 * [Awesome-Grails](https://github.com/hitenpratap/awesome-grails)
-* [Awesome-Groovy](https://github.com/khannedy/awesome-groovy)
+* [Awesome-Groovy](https://github.com/kdabir/awesome-groovy)
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [Awesome-Hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [Awesome-Haskell](https://github.com/krispo/awesome-haskell)
