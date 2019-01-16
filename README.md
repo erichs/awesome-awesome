@@ -14,6 +14,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-AutoIt](https://j2team.github.io/awesome-AutoIt/)
 * [Awesome-AVR](https://github.com/fffaraz/awesome-avr)
 * [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
+* [Awesome-Bitcoin-Payment-Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
 * [Awesome-Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 * [Awesome-C](https://github.com/kozross/awesome-c)
 * [Awesome-CakePHP](https://github.com/dereuromark/awesome-cakephp)
