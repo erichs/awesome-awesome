@@ -117,6 +117,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Wx](https://github.com/moneymanagerex/awesome-wx)
 * [Awesome-Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Awesome-Yii](https://github.com/iJackUA/awesome-yii)
+* [Awesome-Zites](https://github.com/kevinscruff/awesome-zites)
 * [Aweszome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 Keep it awesome, everybody!
