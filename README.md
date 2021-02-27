@@ -83,6 +83,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Network-Embedding](https://github.com/chihming/awesome-network-embedding)
 * [Awesome-Ninja](https://github.com/kevincasey1222/awesome-ninja)
 * [Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome-Node-ESM](https://github.com/talentlessguy/awesome-node-esm)
 * [Aweomse-ObjC-Swift](https://github.com/joeljfischer/awesome-objc-swift)
 * [Awesome-Ocaml](https://github.com/rizo/awesome-ocaml)
 * [Awesome-Pentester](https://github.com/m1guelpf/awesome-pentester)
