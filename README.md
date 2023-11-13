@@ -58,6 +58,7 @@ A curated list of awesome curated lists! Inspired by inspiration.
 * [Awesome-Fortran](https://github.com/rabbiabram/awesome-fortran)
 * [Awesome-Github](https://github.com/fffaraz/awesome-github)
 * [Awesome-Go](https://github.com/avelino/awesome-go)
+* [Awesome-GPTs](https://github.com/taranjeet/awesome-gpts/)
 * [Awesome-Grails](https://github.com/hitenpratap/awesome-grails)
 * [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 * [Awesome-Groovy](https://github.com/kdabir/awesome-groovy)
